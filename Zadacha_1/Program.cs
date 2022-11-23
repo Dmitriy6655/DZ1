@@ -11,4 +11,4 @@ if(numberA>numberB)
 {Console.WriteLine("Максимальное число равно:");
     Console.WriteLine(numberA);}
 else {Console.WriteLine("Максимальное число равно:");
-    Console.WriteLine(numberB);};
+    Console.WriteLine(numberB);}
